@@ -61,6 +61,9 @@
   </issueManagement>
 
   <properties>
+    <!-- Configuration for pipeline -->
+    <sonar.projectKey>josedeleon2017_WebGoat-sast2</sonar.projectKey>
+  <sonar.organization>josedeleon2017</sonar.organization>
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>3.0.1</asciidoctorj.version>
     <bootstrap.version>5.3.5</bootstrap.version>
